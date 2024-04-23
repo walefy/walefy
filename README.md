@@ -7,11 +7,11 @@
 
 ### Codando com:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,java,js,python,express,spring,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,js,python,rust,express,spring)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,jest,mysql,mongo,sequelize,prisma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,vitest,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vitest,html,css,git)](https://skillicons.dev)
 
 &nbsp; <!-- space -->
 &nbsp; <!-- space -->
