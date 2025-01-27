@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,bun,mysql,mongo,sequelize,prisma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,vitest,jest,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,graphql,vitest,jest,html,css,git)](https://skillicons.dev)
 
 &nbsp; <!-- space -->
 &nbsp; <!-- space -->
