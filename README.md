@@ -7,9 +7,9 @@
 
 ### Codando com:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,java,js,python,rust,express,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,js,python,rust,express,spring,nest)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,bun,mysql,mongo,sequelize,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,bun,mysql,mongo,sequelize,prisma,next)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,graphql,vitest,jest,html,css,git)](https://skillicons.dev)
 
