@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Walefy Gonçalves!
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=walefy&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Walefy Gonçalves github stats" /> 
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walefy&layout=compact&hide=css,html&hide_progress=false&hide_border=true&count_private=true&theme=dracula" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=walefy&show_icons=true&count_private=true&hide_border=false&theme=dracula" alt="Walefy Gonçalves github stats" /> 
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walefy&layout=compact&hide=css,html&hide_progress=false&hide_border=true&count_private=false&theme=dracula" />
 </div>
 
 ### Codando com:
