@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Walefy Gonçalves!
 
-<div>
+<!-- <div>
   <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walefy&layout=compact&hide=css,html&hide_progress=false&hide_border=true&count_private=true&theme=dracula" />
-</div>
+</div> -->
 
 ### Codando com:
 
